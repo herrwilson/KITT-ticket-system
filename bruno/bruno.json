@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "KITT-ticket-system",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
